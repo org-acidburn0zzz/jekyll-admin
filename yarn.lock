@@ -10502,12 +10502,13 @@ react-dom@15.4.1:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-react-dropzone@3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-3.10.0.tgz#d17193f816c038a1c29f1e92411db4a12210f19b"
-  integrity sha1-0XGT+BbAOKHCnx6SQR20oSIQ8Zs=
+react-dropzone@3.13.4:
+  version "3.13.4"
+  resolved "https://registry.yarnpkg.com/react-dropzone/-/react-dropzone-3.13.4.tgz#84da26815c40339691c49b4544c2ef7a16912ccc"
+  integrity sha1-hNomgVxAM5aRxJtFRMLvehaRLMw=
   dependencies:
     attr-accept "^1.0.3"
+    prop-types "^15.5.7"
 
 react-error-overlay@^6.0.6:
   version "6.0.6"
