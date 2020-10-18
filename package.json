@@ -49,7 +49,7 @@
     "react-widgets": "4.4.11",
     "react-widgets-moment": "4.0.27",
     "redux": "3.6.0",
-    "redux-logger": "2.6.1",
+    "redux-logger": "2.10.2",
     "redux-thunk": "2.1.0",
     "rimraf": "^3.0.2",
     "simplemde": "1.11.2",
